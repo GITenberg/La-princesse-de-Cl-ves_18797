@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/249
     wikipedia: http://en.wikipedia.org/wiki/Marie-Madeleine_Pioche_de_la_Vergne%2C_comtesse_de_la_Fayette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18797#La-princesse-de-Cl-ves
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-07-09'
 gutenberg_type: Text
